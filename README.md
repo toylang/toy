@@ -1,1 +1,1 @@
-# Fast Language Design
+# Toy Language Design
